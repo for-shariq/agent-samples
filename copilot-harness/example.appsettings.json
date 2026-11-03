@@ -1,0 +1,22 @@
+{
+  "Foundry": {
+    "TenantId": "",
+    "ProjectEndpoint": "",
+    "AgentName": "",
+    "Model": "",
+    "Instructions": "",
+    "Skill": {
+      "Name": "",
+      "Version": ""
+    },
+    "Toolbox": {
+      "Name": "",
+      "Version": "",
+      "ConnectionName": ""
+    },
+    "Search": {
+      "ConnectionName": "",
+      "IndexName": ""
+    }
+  }
+}
